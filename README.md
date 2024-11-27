@@ -4,7 +4,7 @@
 
 1. Clone the project
 ```
-https://github.com/devu5-2/INI8-Labs.git
+https://github.com/devu5-2/PropKarmaa.git
 ```
 2. In backend folder- Open Integrated Terminal
     - Right Click on Sidebar > Select “Open In Integrated Terminal”
