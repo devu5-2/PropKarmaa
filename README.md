@@ -9,7 +9,7 @@ https://github.com/devu5-2/PropKarmaa.git
 2. In backend folder- Open Integrated Terminal
     - Right Click on Sidebar > Select “Open In Integrated Terminal”
 3. Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
-4. Type "node .\index.js" or "nodemon .\index.js" and press enter
+4. Type "npm start" and press enter
 
 
 ❖ Steps To Setup Frontend Of The Project
